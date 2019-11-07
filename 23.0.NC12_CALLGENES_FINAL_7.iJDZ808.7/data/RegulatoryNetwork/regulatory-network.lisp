@@ -2,1439 +2,1073 @@
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "18073419")
 (load-predicted-bsites-from-file "regnet_7596294_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "7596294")
-(load-predicted-bsites-from-file "regnet_15126394_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
-                    :tf-column 0
-                    :gene-column 1
-                    :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
-                    :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
-                    :cit "15126394")
 (load-predicted-bsites-from-file "regnet_25822411_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "25822411")
 (load-predicted-bsites-from-file "regnet_25822411_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "25822411")
 (load-predicted-bsites-from-file "regnet_8278550_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "8278550")
 (load-predicted-bsites-from-file "regnet_16287715_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "16287715")
 (load-predicted-bsites-from-file "regnet_7969122_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "7969122")
 (load-predicted-bsites-from-file "regnet_9457847_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "9457847")
 (load-predicted-bsites-from-file "regnet_21980519_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "21980519")
 (load-predicted-bsites-from-file "regnet_21980519_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "21980519")
 (load-predicted-bsites-from-file "regnet_18583987_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "18583987")
 (load-predicted-bsites-from-file "regnet_12970196_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12970196")
 (load-predicted-bsites-from-file "regnet_12719523_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12719523")
 (load-predicted-bsites-from-file "regnet_12477788_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12477788")
 (load-predicted-bsites-from-file "regnet_12586700_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12586700")
 (load-predicted-bsites-from-file "regnet_17610084_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "17610084")
 (load-predicted-bsites-from-file "regnet_8396761_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "8396761")
 (load-predicted-bsites-from-file "regnet_24581151_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "24581151")
 (load-predicted-bsites-from-file "regnet_12589465_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "12589465")
 (load-predicted-bsites-from-file "regnet_28420736_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "28420736")
 (load-predicted-bsites-from-file "regnet_25362047_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "25362047")
 (load-predicted-bsites-from-file "regnet_24037267_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "24037267")
 (load-predicted-bsites-from-file "regnet_9073484_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "9073484")
 (load-predicted-bsites-from-file "regnet_12180913_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12180913")
 (load-predicted-bsites-from-file "regnet_24342650_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "24342650")
 (load-predicted-bsites-from-file "regnet_11251826_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "11251826")
 (load-predicted-bsites-from-file "regnet_19262566_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "19262566")
 (load-predicted-bsites-from-file "regnet_19262566_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "19262566")
 (load-predicted-bsites-from-file "regnet_22240319_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22240319")
 (load-predicted-bsites-from-file "regnet_19071122_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "19071122")
 (load-predicted-bsites-from-file "regnet_12455961_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12455961")
 (load-predicted-bsites-from-file "regnet_11157738_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "11157738")
 (load-predicted-bsites-from-file "regnet_1837079_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "1837079")
 (load-predicted-bsites-from-file "regnet_26132395_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "26132395")
 (load-predicted-bsites-from-file "regnet_1533844_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "1533844")
 (load-predicted-bsites-from-file "regnet_22462823_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22462823")
 (load-predicted-bsites-from-file "regnet_14625272_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "14625272")
 (load-predicted-bsites-from-file "regnet_11013078_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "11013078")
 (load-predicted-bsites-from-file "regnet_17625933_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "17625933")
 (load-predicted-bsites-from-file "regnet_23809652_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "23809652")
 (load-predicted-bsites-from-file "regnet_12484767_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "12484767")
 (load-predicted-bsites-from-file "regnet_8781172_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "8781172")
 (load-predicted-bsites-from-file "regnet_12098706_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "12098706")
 (load-predicted-bsites-from-file "regnet_7612627_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "7612627")
 (load-predicted-bsites-from-file "regnet_19932184_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "19932184")
 (load-predicted-bsites-from-file "regnet_2951591_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "2951591")
 (load-predicted-bsites-from-file "regnet_25889113_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "25889113")
 (load-predicted-bsites-from-file "regnet_25889113_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "25889113")
 (load-predicted-bsites-from-file "regnet_22164247_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22164247")
 (load-predicted-bsites-from-file "regnet_15802524_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "15802524")
 (load-predicted-bsites-from-file "regnet_18079175_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "18079175")
 (load-predicted-bsites-from-file "regnet_7500955_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "7500955")
 (load-predicted-bsites-from-file "regnet_19618296_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "19618296")
 (load-predicted-bsites-from-file "regnet_26711258_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "26711258")
 (load-predicted-bsites-from-file "regnet_9671030_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "9671030")
 (load-predicted-bsites-from-file "regnet_22952943_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22952943")
 (load-predicted-bsites-from-file "regnet_22952943_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "22952943")
 (load-predicted-bsites-from-file "regnet_1834495_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "1834495")
 (load-predicted-bsites-from-file "regnet_19236936_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "19236936")
 (load-predicted-bsites-from-file "regnet_26288653_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "26288653")
 (load-predicted-bsites-from-file "regnet_9693026_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "9693026")
 (load-predicted-bsites-from-file "regnet_12139624_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12139624")
 (load-predicted-bsites-from-file "regnet_9685394_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "9685394")
 (load-predicted-bsites-from-file "regnet_7731792_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "7731792")
 (load-predicted-bsites-from-file "regnet_9115195_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "9115195")
 (load-predicted-bsites-from-file "regnet_25883682_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "25883682")
 (load-predicted-bsites-from-file "regnet_22345350_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22345350")
 (load-predicted-bsites-from-file "regnet_10194352_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "10194352")
 (load-predicted-bsites-from-file "regnet_27986792_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "27986792")
 (load-predicted-bsites-from-file "regnet_27986792_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "27986792")
 (load-predicted-bsites-from-file "regnet_15378267_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "15378267")
 (load-predicted-bsites-from-file "regnet_15378267_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "15378267")
 (load-predicted-bsites-from-file "regnet_24747913_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "24747913")
 (load-predicted-bsites-from-file "regnet_26781458_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "26781458")
 (load-predicted-bsites-from-file "regnet_26781458_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "26781458")
 (load-predicted-bsites-from-file "regnet_18948219_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "18948219")
 (load-predicted-bsites-from-file "regnet_18948219_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "18948219")
 (load-predicted-bsites-from-file "regnet_20305004_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "20305004")
 (load-predicted-bsites-from-file "regnet_20675579_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "20675579")
 (load-predicted-bsites-from-file "regnet_20675579_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "20675579")
 (load-predicted-bsites-from-file "regnet_17676324_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "17676324")
 (load-predicted-bsites-from-file "regnet_1532227_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "1532227")
 (load-predicted-bsites-from-file "regnet_23766336_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "23766336")
 (load-predicted-bsites-from-file "regnet_9009271_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "9009271")
 (load-predicted-bsites-from-file "regnet_9009271_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "9009271")
 (load-predicted-bsites-from-file "regnet_8163509_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "8163509")
 (load-predicted-bsites-from-file "regnet_26994287_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "26994287")
 (load-predicted-bsites-from-file "regnet_26994287_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "26994287")
 (load-predicted-bsites-from-file "regnet_12454012_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12454012")
 (load-predicted-bsites-from-file "regnet_24717808_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "24717808")
 (load-predicted-bsites-from-file "regnet_12110577_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12110577")
 (load-predicted-bsites-from-file "regnet_7592372_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "7592372")
 (load-predicted-bsites-from-file "regnet_12714686_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "12714686")
 (load-predicted-bsites-from-file "regnet_8612589_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "8612589")
 (load-predicted-bsites-from-file "regnet_25144221_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "25144221")
 (load-predicted-bsites-from-file "regnet_25978382_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "25978382")
 (load-predicted-bsites-from-file "regnet_28467421_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "28467421")
 (load-predicted-bsites-from-file "regnet_9126619_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "9126619")
 (load-predicted-bsites-from-file "regnet_8679704_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "8679704")
 (load-predicted-bsites-from-file "regnet_8901135_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "8901135")
 (load-predicted-bsites-from-file "regnet_17012538_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "17012538")
 (load-predicted-bsites-from-file "regnet_25254987_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "25254987")
 (load-predicted-bsites-from-file "regnet_20026679_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "20026679")
 (load-predicted-bsites-from-file "regnet_20026679_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "20026679")
 (load-predicted-bsites-from-file "regnet_16374510_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "16374510")
 (load-predicted-bsites-from-file "regnet_2525625_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "2525625")
 (load-predicted-bsites-from-file "regnet_2525625_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "2525625")
 (load-predicted-bsites-from-file "regnet_2966896_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "2966896")
 (load-predicted-bsites-from-file "regnet_2943985_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "2943985")
 (load-predicted-bsites-from-file "regnet_25691917_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "25691917")
 (load-predicted-bsites-from-file "regnet_22748183_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22748183")
 (load-predicted-bsites-from-file "regnet_22748183_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "22748183")
 (load-predicted-bsites-from-file "regnet_16731655_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "16731655")
 (load-predicted-bsites-from-file "regnet_22445960_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22445960")
 (load-predicted-bsites-from-file "regnet_8316209_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "8316209")
 (load-predicted-bsites-from-file "regnet_24586693_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "24586693")
 (load-predicted-bsites-from-file "regnet_20378991_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "20378991")
 (load-predicted-bsites-from-file "regnet_7753024_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "7753024")
 (load-predicted-bsites-from-file "regnet_17237512_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "17237512")
 (load-predicted-bsites-from-file "regnet_12098705_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12098705")
 (load-predicted-bsites-from-file "regnet_1532230_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "1532230")
 (load-predicted-bsites-from-file "regnet_1831537_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "1831537")
 (load-predicted-bsites-from-file "regnet_2142156_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "2142156")
 (load-predicted-bsites-from-file "regnet_22813893_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22813893")
 (load-predicted-bsites-from-file "regnet_22532664_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22532664")
 (load-predicted-bsites-from-file "regnet_21081763_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "21081763")
 (load-predicted-bsites-from-file "regnet_9680957_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "9680957")
 (load-predicted-bsites-from-file "regnet_1459459_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "1459459")
 (load-predicted-bsites-from-file "regnet_7724564_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "7724564")
 (load-predicted-bsites-from-file "regnet_7724564_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "7724564")
 (load-predicted-bsites-from-file "regnet_1824959_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "1824959")
 (load-predicted-bsites-from-file "regnet_2141606_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "2141606")
 (load-predicted-bsites-from-file "regnet_12111557_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12111557")
 (load-predicted-bsites-from-file "regnet_3012277_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "3012277")
 (load-predicted-bsites-from-file "regnet_9632783_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "9632783")
 (load-predicted-bsites-from-file "regnet_23124067_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "23124067")
 (load-predicted-bsites-from-file "regnet_23124067_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "23124067")
 (load-predicted-bsites-from-file "regnet_16914525_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "16914525")
 (load-predicted-bsites-from-file "regnet_10361038_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "10361038")
 (load-predicted-bsites-from-file "regnet_27557053_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "27557053")
 (load-predicted-bsites-from-file "regnet_27557053_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "27557053")
 (load-predicted-bsites-from-file "regnet_7565596_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "7565596")
 (load-predicted-bsites-from-file "regnet_15068336_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "15068336")
 (load-predicted-bsites-from-file "regnet_22087254_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22087254")
 (load-predicted-bsites-from-file "regnet_22087254_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "22087254")
 (load-predicted-bsites-from-file "regnet_1825178_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "1825178")
 (load-predicted-bsites-from-file "regnet_28616073_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "28616073")
 (load-predicted-bsites-from-file "regnet_18586951_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "18586951")
 (load-predicted-bsites-from-file "regnet_11283242_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "11283242")
 (load-predicted-bsites-from-file "regnet_1975945_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "1975945")
 (load-predicted-bsites-from-file "regnet_11416214_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "11416214")
 (load-predicted-bsites-from-file "regnet_8208246_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "8208246")
 (load-predicted-bsites-from-file "regnet_7750660_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "7750660")
 (load-predicted-bsites-from-file "regnet_16980584_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "16980584")
 (load-predicted-bsites-from-file "regnet_2150539_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "2150539")
 (load-predicted-bsites-from-file "regnet_1824960_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "1824960")
 (load-predicted-bsites-from-file "regnet_22590528_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22590528")
 (load-predicted-bsites-from-file "regnet_2891138_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "2891138")
 (load-predicted-bsites-from-file "regnet_22001287_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22001287")
 (load-predicted-bsites-from-file "regnet_26463163_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "26463163")
 (load-predicted-bsites-from-file "regnet_26463163_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "26463163")
 (load-predicted-bsites-from-file "regnet_8221929_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "8221929")
 (load-predicted-bsites-from-file "regnet_15773996_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "15773996")
 (load-predicted-bsites-from-file "regnet_15773996_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "15773996")
 (load-predicted-bsites-from-file "regnet_2142530_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "2142530")
 (load-predicted-bsites-from-file "regnet_12871904_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "12871904")
 (load-predicted-bsites-from-file "regnet_1532511_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "1532511")
 (load-predicted-bsites-from-file "regnet_24030828_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "24030828")
 (load-predicted-bsites-from-file "regnet_15731099_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "15731099")
 (load-predicted-bsites-from-file "regnet_22152473_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "22152473")
 (load-predicted-bsites-from-file "regnet_22152473_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "22152473")
 (load-predicted-bsites-from-file "regnet_20733070_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "20733070")
 (load-predicted-bsites-from-file "regnet_2148685_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "2148685")
 (load-predicted-bsites-from-file "regnet_11532152_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "11532152")
 (load-predicted-bsites-from-file "regnet_21768394_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "21768394")
 (load-predicted-bsites-from-file "regnet_21811413_EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IDA-BINDING-OF-PURIFIED-PROTEINS
                     :cit "21811413")
 (load-predicted-bsites-from-file "regnet_26100701_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "26100701")
 (load-predicted-bsites-from-file "regnet_20807745_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "20807745")
 (load-predicted-bsites-from-file "regnet_11805052_EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS.tab"
                     :tf-column 0
                     :gene-column 1
                     :mode-column 2
-                    :bsite-left-column nil
-                    :bsite-right-column nil
                     :ev-code 'EV-EXP-IEP-GENE-EXPRESSION-ANALYSIS
                     :cit "11805052")
