@@ -1,0 +1,659 @@
+Accepted   NCU12174-MONOMER    Na+                      SECONDARY 
+           na(+)/h(+) antiporter 1
+           Na+[periplasmic space] + H+[cytosol] = Na+[cytosol] + H+[periplasmic space] 
+Accepted   NCU12172-MONOMER    maltose                  SECONDARY 
+           maltose permease mal61
+           maltose[periplasmic space] + H+[periplasmic space] = maltose[cytosol] + H+[cytosol] 
+Accepted   NCU11928-MONOMER    an acid                  SECONDARY 
+           mfs monocarboxylic acid transporter
+           an acid[periplasmic space] + H+[periplasmic space] = an acid[cytosol] + H+[cytosol] 
+Accepted   NCU11698-MONOMER    K+                       CHANNEL   
+           potassium ion channel yvc1
+           K+[periplasmic space] = K+[cytosol] 
+Accepted   NCU10732-MONOMER    a dicarboxylate          UNKNOWN   
+           mitochondrial dicarboxylate transporter
+           a dicarboxylate[mitochondrial lumen] = a dicarboxylate[cytosol] 
+Accepted   NCU10675-MONOMER    L-methionine             SECONDARY 
+           methionine permease
+           L-methionine[periplasmic space] + H+[periplasmic space] = L-methionine[cytosol] + H+[cytosol] 
+Accepted   NCU09909-MONOMER    urea                     UNKNOWN   
+           urea active transporter
+           urea[periplasmic space] = urea[cytosol] 
+Accepted   NCU09809-MONOMER    Cu2+                     UNKNOWN   
+           mitochondrial copper ion transporter
+           Cu2+[mitochondrial intermembrane space] = Cu2+[cytosol] 
+Accepted   NCU09792-MONOMER    UDP-D-galactose          UNKNOWN   
+           udp-galactose transporter gms1
+           UDP-D-galactose[periplasmic space] = UDP-D-galactose[cytosol] 
+Accepted   NCU09758-MONOMER    guanine                  UNKNOWN   
+           ras guanine-nucleotide exchange protein
+           guanine[periplasmic space] = guanine[cytosol] 
+Accepted   NCU09642-MONOMER    sulfate                  UNKNOWN   
+           high affinity sulfate transporter 1
+           sulfate[periplasmic space] = sulfate[cytosol] 
+Accepted   NCU09564-MONOMER    phosphate                SECONDARY 
+           phosphate-repressible phosphate permease
+           phosphate[periplasmic space] + H+[periplasmic space] = phosphate[cytosol] + H+[cytosol] 
+Accepted   NCU09098-MONOMER    tetracycline             UNKNOWN   
+           tetracycline transporter
+           tetracycline[periplasmic space] = tetracycline[cytosol] 
+Accepted   NCU09091-MONOMER    Mg2+                     UNKNOWN   
+           mitochondrial inner membrane magnesium transporter mrs2
+           Mg2+[mitochondrial intermembrane space] = Mg2+[cytosol] 
+Accepted   NCU08743-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasmic space] = phosphate[cytosol] 
+Accepted   NCU08561-MONOMER    fumarate                 UNKNOWN   
+           succinate/fumarate mitochondrial transporter
+           fumarate[periplasmic space] = fumarate[cytosol] 
+Accepted   NCU08561-MONOMER    succinate                UNKNOWN   
+           succinate/fumarate mitochondrial transporter
+           succinate[periplasmic space] = succinate[cytosol] 
+Accepted   NCU08325-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter pho84
+           phosphate[periplasmic space] = phosphate[cytosol] 
+Accepted   NCU08225-MONOMER    Ni2+                     UNKNOWN   
+           high affinity nickel transporter nic1
+           Ni2+[periplasmic space] = Ni2+[cytosol] 
+Accepted   NCU07884-MONOMER    oxaloacetate             UNKNOWN   
+           mitochondrial oxaloacetate transporter
+           oxaloacetate[periplasmic space] = oxaloacetate[cytosol] 
+Accepted   NCU07820-MONOMER    (R)-pantothenate         UNKNOWN   
+           pantothenate transporter
+           (R)-pantothenate[periplasmic space] = (R)-pantothenate[cytosol] 
+Accepted   NCU07816-MONOMER    Co2+                     UNKNOWN   
+           magnesium and cobalt transporter cora
+           Co2+[periplasmic space] = Co2+[cytosol] 
+Accepted   NCU07816-MONOMER    Mg2+                     UNKNOWN   
+           magnesium and cobalt transporter cora
+           Mg2+[mitochondrial intermembrane space] = Mg2+[cytosol] 
+Accepted   NCU07754-MONOMER    L-methionine             SECONDARY 
+           methionine permease
+           L-methionine[periplasmic space] + H+[periplasmic space] = L-methionine[cytosol] + H+[cytosol] 
+Accepted   NCU07620-MONOMER    (R)-pantothenate         SECONDARY 
+           mfs pantothenate transporter
+           (R)-pantothenate[periplasmic space] + H+[periplasmic space] = (R)-pantothenate[cytosol] + H+[cytosol] 
+Accepted   NCU07578-MONOMER    a nucleotide             UNKNOWN   
+           peroxisomal adenine nucleotide transporter 1
+           a nucleotide[periplasmic space] = a nucleotide[cytosol] 
+Accepted   NCU07578-MONOMER    adenine                  UNKNOWN   
+           peroxisomal adenine nucleotide transporter 1
+           adenine[periplasmic space] = adenine[cytosol] 
+Accepted   NCU07564-MONOMER    Fe3+                     UNKNOWN   
+           siderophore iron transporter mirc
+           Fe3+[periplasmic space] = Fe3+[cytosol] 
+Accepted   NCU07564-MONOMER    a siderophore            UNKNOWN   
+           siderophore iron transporter mirc
+           a siderophore[periplasmic space] = a siderophore[cytosol] 
+Accepted   NCU07428-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[mitochondrial intermembrane space] = Cu2+[cytosol] 
+Accepted   NCU07375-MONOMER    phosphate                SECONDARY 
+           mfs phosphate transporter
+           phosphate[periplasmic space] + H+[periplasmic space] = phosphate[cytosol] + H+[cytosol] 
+Accepted   NCU07334-MONOMER    uracil                   SECONDARY 
+           uracil permease
+           uracil[periplasmic space] + H+[periplasmic space] = uracil[cytosol] + H+[cytosol] 
+Accepted   NCU07205-MONOMER    nitrate                  UNKNOWN   
+           nitrate transporter crna
+           nitrate[periplasmic space] = nitrate[cytosol] 
+Accepted   NCU07199-MONOMER    myo-inositol             UNKNOWN   
+           major myo-inositol transporter iolt
+           myo-inositol[periplasmic space] = myo-inositol[cytosol] 
+Accepted   NCU07140-MONOMER    allantoate               UNKNOWN   
+           allantoate transporter
+           allantoate[periplasmic space] = allantoate[cytosol] 
+Accepted   NCU06918-MONOMER    purine                   SECONDARY 
+           purine permease
+           purine[periplasmic space] + H+[periplasmic space] = purine[cytosol] + H+[cytosol] 
+Accepted   NCU06846-MONOMER    myo-inositol             SECONDARY 
+           mfs myo-inositol transporter
+           myo-inositol[periplasmic space] + H+[periplasmic space] = myo-inositol[cytosol] + H+[cytosol] 
+Accepted   NCU06624-MONOMER    chloride                 CHANNEL   
+           clc voltage-gated chloride channel protein
+           chloride[periplasmic space] = chloride[cytosol] 
+Accepted   NCU06522-MONOMER    maltose                  SECONDARY 
+           mfs maltose permease
+           maltose[periplasmic space] + H+[periplasmic space] = maltose[cytosol] + H+[cytosol] 
+Accepted   NCU06444-MONOMER    chloride                 CHANNEL   
+           chloride channel protein 3
+           chloride[periplasmic space] = chloride[cytosol] 
+Accepted   NCU06380-MONOMER    Zn2+                     UNKNOWN   
+           zinc transporter yke4
+           Zn2+[periplasmic space] = Zn2+[cytosol] 
+Accepted   NCU06366-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter
+           Ca2+[periplasmic space] + H+[cytosol] = Ca2+[cytosol] + H+[periplasmic space] 
+Accepted   NCU06352-MONOMER    an oligopeptide          UNKNOWN   
+           oligopeptide transporter 4
+           an oligopeptide[periplasmic space] = an oligopeptide[cytosol] 
+Accepted   NCU06305-MONOMER    L-tartrate               UNKNOWN   
+           tartrate transporter
+           L-tartrate[periplasmic space] = L-tartrate[cytosol] 
+Accepted   NCU06198-MONOMER    GDP-alpha-D-mannose      UNKNOWN   
+           gdp-mannose transporter
+           GDP-alpha-D-mannose[periplasmic space] = GDP-alpha-D-mannose[cytosol] 
+Accepted   NCU06138-MONOMER    L-quinate                SECONDARY 
+           quinate permease
+           L-quinate[periplasmic space] + H+[periplasmic space] = L-quinate[cytosol] + H+[cytosol] 
+Accepted   NCU06132-MONOMER    Fe3+                     UNKNOWN   
+           siderophore iron transporter
+           Fe3+[periplasmic space] = Fe3+[cytosol] 
+Accepted   NCU06132-MONOMER    a siderophore            UNKNOWN   
+           siderophore iron transporter
+           a siderophore[periplasmic space] = a siderophore[cytosol] 
+Accepted   NCU06067-MONOMER    a nucleotide             UNKNOWN   
+           rho guanyl nucleotide exchange factor
+           a nucleotide[periplasmic space] = a nucleotide[cytosol] 
+Accepted   NCU06032-MONOMER    a fatty acid             UNKNOWN   
+           long-chain fatty acid transporter
+           a fatty acid[periplasmic space] = a fatty acid[cytosol] 
+Accepted   NCU06026-MONOMER    L-quinate                SECONDARY 
+           quinate permease
+           L-quinate[periplasmic space] + H+[periplasmic space] = L-quinate[cytosol] + H+[cytosol] 
+Accepted   NCU05897-MONOMER    L-fucose                 SECONDARY 
+           l-fucose permease
+           L-fucose[periplasmic space] + H+[periplasmic space] = L-fucose[cytosol] + H+[cytosol] 
+Accepted   NCU05720-MONOMER    chitin                   UNKNOWN   
+           chitin synthase export chaperone
+           chitin[cytosol] = chitin[periplasmic space] 
+Accepted   NCU05585-MONOMER    L-quinate                SECONDARY 
+           mfs quinate transporter
+           L-quinate[periplasmic space] + H+[periplasmic space] = L-quinate[cytosol] + H+[cytosol] 
+Accepted   NCU05360-MONOMER    Ca2+                     SECONDARY 
+           calcium permease
+           Ca2+[periplasmic space] + H+[periplasmic space] = Ca2+[cytosol] + H+[cytosol] 
+Accepted   NCU05201-MONOMER    K+                       CHANNEL   
+           potassium channel protein
+           K+[periplasmic space] = K+[cytosol] 
+Accepted   NCU05168-MONOMER    L-arginine               UNKNOWN   
+           arginine transporter
+           L-arginine[periplasmic space] = L-arginine[cytosol] 
+Accepted   NCU05045-MONOMER    a monocarboxylate        SECONDARY 
+           mfs monocarboxylate transporter
+           a monocarboxylate[periplasmic space] + H+[periplasmic space] = a monocarboxylate[cytosol] + H+[cytosol] 
+Accepted   NCU05029-MONOMER    [FeS] iron-sulfur cluster UNKNOWN   
+           iron-sulfur clusters transporter atm-1
+           [FeS] iron-sulfur cluster[periplasmic space] = [FeS] iron-sulfur cluster[cytosol] 
+Accepted   NCU04991-MONOMER    an oligopeptide          UNKNOWN   
+           oligopeptide transporter
+           an oligopeptide[periplasmic space] = an oligopeptide[cytosol] 
+Accepted   NCU04942-MONOMER    L-methionine             SECONDARY 
+           methionine permease
+           L-methionine[periplasmic space] + H+[periplasmic space] = L-methionine[cytosol] + H+[cytosol] 
+Accepted   NCU04902-MONOMER    Na+                      SECONDARY 
+           sodium-hydrogen antiporter
+           Na+[periplasmic space] + H+[cytosol] = Na+[cytosol] + H+[periplasmic space] 
+Accepted   NCU04809-MONOMER    a phospholipid           SECONDARY 
+           mfs phospholipid transporter
+           a phospholipid[periplasmic space] + H+[periplasmic space] = a phospholipid[cytosol] + H+[cytosol] 
+Accepted   NCU04568-MONOMER    (R)-pantothenate         UNKNOWN   
+           pantothenate transporter liz1
+           (R)-pantothenate[periplasmic space] = (R)-pantothenate[cytosol] 
+Accepted   NCU04537-MONOMER    a monosaccharide         UNKNOWN   
+           monosaccharide transporter
+           a monosaccharide[periplasmic space] = a monosaccharide[cytosol] 
+Accepted   NCU04473-MONOMER    a polysaccharide         UNKNOWN   
+           polysaccharide export protein
+           a polysaccharide[cytosol] = a polysaccharide[periplasmic space] 
+Accepted   NCU04468-MONOMER    L-proline                SECONDARY 
+           proline-specific permease
+           L-proline[periplasmic space] + H+[periplasmic space] = L-proline[cytosol] + H+[cytosol] 
+Accepted   NCU04435-MONOMER    a standard alpha amino acid SECONDARY 
+           general amino acid permease agp3
+           a standard alpha amino acid[periplasmic space] + H+[periplasmic space] = a standard alpha amino acid[cytosol] + H+[cytosol] 
+Accepted   NCU04433-MONOMER    sulfate                  SECONDARY 
+           sulfate permease ii
+           sulfate[periplasmic space] + H+[periplasmic space] = sulfate[cytosol] + H+[cytosol] 
+Accepted   NCU04195-MONOMER    purine                   SECONDARY 
+           purine-cytosine permease fcy21
+           purine[periplasmic space] + cytosine[periplasmic space] = purine[cytosol] + cytosine[cytosol] 
+Accepted   NCU04065-MONOMER    K+                       CHANNEL   
+           potassium channel protein
+           K+[periplasmic space] = K+[cytosol] 
+Accepted   NCU03815-MONOMER    an amino acid            UNKNOWN   
+           large neutral amino acids transporter small subunit 2
+           an amino acid[periplasmic space] = an amino acid[cytosol] 
+Accepted   NCU03784-MONOMER    chloride                 UNKNOWN   
+           cation chloride cotransporter
+           chloride[periplasmic space] = chloride[cytosol] 
+Accepted   NCU03509-MONOMER    a standard alpha amino acid SECONDARY 
+           amino acid permease naap1
+           a standard alpha amino acid[periplasmic space] + H+[periplasmic space] = a standard alpha amino acid[cytosol] + H+[cytosol] 
+Accepted   NCU03292-MONOMER    Ca2+                     ATP       
+           calcium-transporting atpase type 2c member 1
+           Ca2+[periplasmic space] + ATP + H2O = Ca2+[cytosol] + ADP + phosphate 
+Accepted   NCU03235-MONOMER    sulfate                  SECONDARY 
+           sulfate permease ii
+           sulfate[periplasmic space] + H+[periplasmic space] = sulfate[cytosol] + H+[cytosol] 
+Accepted   NCU02887-MONOMER    K+                       CHANNEL   
+           voltage-gated potassium channel beta-2 subunit
+           K+[periplasmic space] = K+[cytosol] 
+Accepted   NCU02879-MONOMER    Fe3+                     UNKNOWN   
+           zinc/iron transporter
+           Fe3+[periplasmic space] = Fe3+[cytosol] 
+Accepted   NCU02879-MONOMER    Zn2+                     UNKNOWN   
+           zinc/iron transporter
+           Zn2+[periplasmic space] = Zn2+[cytosol] 
+Accepted   NCU02826-MONOMER    Ca2+                     SECONDARY 
+           sodium/calcium exchanger protein
+           Ca2+[periplasmic space] + Na+[cytosol] = Ca2+[cytosol] + Na+[periplasmic space] 
+Accepted   NCU02762-MONOMER    Ca2+                     CHANNEL   
+           calcium channel subunit cch1
+           Ca2+[periplasmic space] = Ca2+[cytosol] 
+Accepted   NCU02591-MONOMER    glycerol                 SECONDARY 
+           glycerol:h+ symporter
+           glycerol[periplasmic space] + H+[periplasmic space] = glycerol[cytosol] + H+[cytosol] 
+Accepted   NCU02456-MONOMER    K+                       UNKNOWN   
+           potassium transporter
+           K+[periplasmic space] = K+[cytosol] 
+Accepted   NCU02238-MONOMER    (R)-pantothenate         UNKNOWN   
+           pantothenate transporter liz1
+           (R)-pantothenate[periplasmic space] = (R)-pantothenate[cytosol] 
+Accepted   NCU02195-MONOMER    L-methionine             SECONDARY 
+           high affinity methionine permease
+           L-methionine[periplasmic space] + H+[periplasmic space] = L-methionine[cytosol] + H+[cytosol] 
+Accepted   NCU02131-MONOMER    a nucleotide             UNKNOWN   
+           rho guanyl nucleotide exchange factor
+           a nucleotide[periplasmic space] = a nucleotide[cytosol] 
+Accepted   NCU01993-MONOMER    a 1,2-diacylglycerol     UNKNOWN   
+           diacylglycerol cholinephosphotransferase.
+           a 1,2-diacylglycerol[periplasmic space] = a 1,2-diacylglycerol[cytosol] 
+Accepted   NCU01911-MONOMER    GTP                      UNKNOWN   
+           gdp/gtp exchange factor sec2p
+           GTP[periplasmic space] = GTP[cytosol] 
+Accepted   NCU01911-MONOMER    GDP                      UNKNOWN   
+           gdp/gtp exchange factor sec2p
+           GDP[periplasmic space] = GDP[cytosol] 
+Accepted   NCU01868-MONOMER    maltose                  SECONDARY 
+           mfs maltose permease malp
+           maltose[periplasmic space] + H+[periplasmic space] = maltose[cytosol] + H+[cytosol] 
+Accepted   NCU01633-MONOMER    a hexose                 UNKNOWN   
+           hexose transporter hxt13
+           a hexose[periplasmic space] = a hexose[cytosol] 
+Accepted   NCU01321-MONOMER    Ni2+                     UNKNOWN   
+           high-affinity nickel transporter
+           Ni2+[periplasmic space] = Ni2+[cytosol] 
+Accepted   NCU01231-MONOMER    a carboxylate            UNKNOWN   
+           carboxylic acid transporter
+           a carboxylate[periplasmic space] = a carboxylate[cytosol] 
+Accepted   NCU01132-MONOMER    a monosaccharide         SECONDARY 
+           mfs monosaccharide transporter
+           a monosaccharide[periplasmic space] + H+[periplasmic space] = a monosaccharide[cytosol] + H+[cytosol] 
+Accepted   NCU00860-MONOMER    Zn2+                     UNKNOWN   
+           zip family zinc transporter
+           Zn2+[periplasmic space] = Zn2+[cytosol] 
+Accepted   NCU00830-MONOMER    Cu2+                     UNKNOWN   
+           ctr copper transporter
+           Cu2+[mitochondrial intermembrane space] = Cu2+[cytosol] 
+Accepted   NCU00809-MONOMER    a monosaccharide         SECONDARY 
+           mfs monosaccharide transporter
+           a monosaccharide[periplasmic space] + H+[periplasmic space] = a monosaccharide[cytosol] + H+[cytosol] 
+Accepted   NCU00801-MONOMER    lactose                  SECONDARY 
+           mfs lactose permease
+           lactose[periplasmic space] + H+[periplasmic space] = lactose[cytosol] + H+[cytosol] 
+Accepted   NCU00790-MONOMER    K+                       UNKNOWN   
+           potassium transporter hak-1
+           K+[periplasmic space] = K+[cytosol] 
+Accepted   NCU00782-MONOMER    (R)-pantothenate         UNKNOWN   
+           pantothenate transporter liz1
+           (R)-pantothenate[periplasmic space] = (R)-pantothenate[cytosol] 
+Accepted   NCU00765-MONOMER    a standard alpha amino acid SECONDARY 
+           amino acid permease 2
+           a standard alpha amino acid[periplasmic space] + H+[periplasmic space] = a standard alpha amino acid[cytosol] + H+[cytosol] 
+Accepted   NCU00758-MONOMER    nitrite                  UNKNOWN   
+           formate/nitrite transporter
+           nitrite[periplasmic space] = nitrite[cytosol] 
+Accepted   NCU00758-MONOMER    formate                  UNKNOWN   
+           formate/nitrite transporter
+           formate[periplasmic space] = formate[cytosol] 
+Accepted   NCU00721-MONOMER    L-proline                SECONDARY 
+           proline-specific permease
+           L-proline[periplasmic space] + H+[periplasmic space] = L-proline[cytosol] + H+[cytosol] 
+Accepted   NCU00648-MONOMER    choline                  UNKNOWN   
+           choline transporter
+           choline[periplasmic space] = choline[cytosol] 
+Accepted   NCU00589-MONOMER    indole-3-acetate         SECONDARY 
+           auxin efflux carrier superfamily
+           indole-3-acetate[cytosol] + H+[cytosol] = indole-3-acetate[periplasmic space] + H+[periplasmic space] 
+Unreviewed NCU12011-MONOMER    an oligopeptide          UNKNOWN   
+           oligopeptide transporter opt
+           No reaction
+Unreviewed NCU11414-MONOMER    Zn2+                     UNKNOWN   
+           plasma membrane zinc ion transporter
+           No reaction
+Unreviewed NCU11342-MONOMER    a hexose                 SECONDARY 
+           mfs hexose transporter
+           No reaction
+Unreviewed NCU11312-MONOMER    a metal ion              UNKNOWN   
+           cora family metal ion transporter
+           No reaction
+Unreviewed NCU11204-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           No reaction
+Unreviewed NCU10763-MONOMER    an oligopeptide          UNKNOWN   
+           small oligopeptide transporter
+           No reaction
+Unreviewed NCU10262-MONOMER    a standard alpha amino acid SECONDARY 
+           general amino-acid permease gap1
+           No reaction
+Unreviewed NCU10021-MONOMER    a monosaccharide         SECONDARY 
+           mfs monosaccharide transporter
+           No reaction
+Unreviewed NCU09830-MONOMER    multidrug                ATP       
+           abc multidrug transporter
+           No reaction
+Unreviewed NCU09773-MONOMER    an oligopeptide          UNKNOWN   
+           oligopeptide transporter
+           No reaction
+Unreviewed NCU09758-MONOMER    a nucleotide             UNKNOWN   
+           ras guanine-nucleotide exchange protein
+           No reaction
+Unreviewed NCU09551-MONOMER    multidrug                SECONDARY 
+           mfs multidrug transporter
+           No reaction
+Unreviewed NCU09444-MONOMER    multidrug                SECONDARY 
+           mfs multidrug transporter
+           No reaction
+Unreviewed NCU09287-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter
+           No reaction
+Unreviewed NCU08880-MONOMER    a standard alpha amino acid SECONDARY 
+           neutral amino acid permease
+           No reaction
+Unreviewed NCU08310-MONOMER    purine                   SECONDARY 
+           purine-cytosine permease fcy21
+           No reaction
+Unreviewed NCU08178-MONOMER    purine                   SECONDARY 
+           purine nucleoside permease
+           No reaction
+Unreviewed NCU08148-MONOMER    a nucleoside             SECONDARY 
+           h+/nucleoside cotransporter
+           No reaction
+Unreviewed NCU08114-MONOMER    a hexose                 UNKNOWN   
+           hexose transporter
+           No reaction
+Unreviewed NCU08066-MONOMER    a standard alpha amino acid UNKNOWN   
+           amino acid transporter
+           No reaction
+Unreviewed NCU07894-MONOMER    an oligopeptide          UNKNOWN   
+           oligopeptide transporter 2
+           No reaction
+Unreviewed NCU07711-MONOMER    Ca2+                     UNKNOWN   
+           vacuolar calcium ion transporter/h(+) exchanger
+           No reaction
+Unreviewed NCU07709-MONOMER    a cation                 UNKNOWN   
+           cation efflux system protein czcd
+           No reaction
+Unreviewed NCU07668-MONOMER    multidrug                SECONDARY 
+           mfs multidrug transporter
+           No reaction
+Unreviewed NCU07607-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter
+           No reaction
+Unreviewed NCU07320-MONOMER    an L-1-phosphatidyl-inositol UNKNOWN   
+           phosphatidylinositol transporter
+           No reaction
+Unreviewed NCU07276-MONOMER    a bile acid              ATP       
+           abc bile acid transporter
+           No reaction
+Unreviewed NCU07175-MONOMER    a standard alpha amino acid SECONDARY 
+           apc amino acid permease
+           No reaction
+Unreviewed NCU07129-MONOMER    a standard alpha amino acid SECONDARY 
+           amino-acid permease inda1
+           No reaction
+Unreviewed NCU07075-MONOMER    Ca2+                     SECONDARY 
+           calcium/proton exchanger
+           No reaction
+Unreviewed NCU07054-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter 4
+           No reaction
+Unreviewed NCU06860-MONOMER    multidrug                SECONDARY 
+           mfs multidrug transporter
+           No reaction
+Unreviewed NCU06703-MONOMER    Ca2+                     CHANNEL   
+           calcium channel subunit mid1
+           No reaction
+Unreviewed NCU06619-MONOMER    a standard alpha amino acid SECONDARY 
+           neutral amino acid permease
+           No reaction
+Unreviewed NCU06519-MONOMER    multidrug                UNKNOWN   
+           multidrug transporter
+           No reaction
+Unreviewed NCU06473-MONOMER    a metal ion              UNKNOWN   
+           zip metal ion transporter
+           No reaction
+Unreviewed NCU06384-MONOMER    a sugar                  SECONDARY 
+           mfs sugar transporter
+           No reaction
+Unreviewed NCU06231-MONOMER    a standard alpha amino acid UNKNOWN   
+           vacuolar amino acid transporter 1
+           No reaction
+Unreviewed NCU06167-MONOMER    a monocarboxylate        SECONDARY 
+           mfs monocarboxylate transporter
+           No reaction
+Unreviewed NCU05830-MONOMER    a standard alpha amino acid SECONDARY 
+           general amino-acid permease gap1
+           No reaction
+Unreviewed NCU05776-MONOMER    a standard alpha amino acid SECONDARY 
+           amino acid permease
+           No reaction
+Unreviewed NCU05775-MONOMER    a standard alpha amino acid UNKNOWN   
+           amino acid transporter
+           No reaction
+Unreviewed NCU05207-MONOMER    multidrug                SECONDARY 
+           mfs multidrug transporter
+           No reaction
+Unreviewed NCU05198-MONOMER    a standard alpha amino acid SECONDARY 
+           general amino acid permease
+           No reaction
+Unreviewed NCU05089-MONOMER    a monocarboxylate        SECONDARY 
+           mfs monocarboxylate transporter
+           No reaction
+Unreviewed NCU04898-MONOMER    a cation                 ATP       
+           cation-transporting atpase 4
+           No reaction
+Unreviewed NCU04886-MONOMER    multidrug                SECONDARY 
+           mfs multidrug transporter
+           No reaction
+Unreviewed NCU04819-MONOMER    Fe2+                     UNKNOWN   
+           fe(2+) transporter 3
+           No reaction
+Unreviewed NCU04625-MONOMER    purine                   UNKNOWN   
+           purine transporter
+           No reaction
+Unreviewed NCU04465-MONOMER    a cation                 CHANNEL   
+           nonselective cation channel protein
+           No reaction
+Unreviewed NCU03784-MONOMER    a cation                 UNKNOWN   
+           cation chloride cotransporter
+           No reaction
+Unreviewed NCU03776-MONOMER    multidrug                ATP       
+           abc multidrug transporter
+           No reaction
+Unreviewed NCU03591-MONOMER    a bile acid              ATP       
+           atp-dependent bile acid permease
+           No reaction
+Unreviewed NCU03497-MONOMER    Fe3+                     SECONDARY 
+           plasma membrane iron permease
+           No reaction
+Unreviewed NCU03312-MONOMER    a metal ion              UNKNOWN   
+           cora family metal ion transporter
+           No reaction
+Unreviewed NCU03171-MONOMER    an oligopeptide          UNKNOWN   
+           small oligopeptide transporter
+           No reaction
+Unreviewed NCU03097-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter
+           No reaction
+Unreviewed NCU02737-MONOMER    a cation                 UNKNOWN   
+           cation transporter chac
+           No reaction
+Unreviewed NCU02653-MONOMER    allantoate               SECONDARY 
+           allantoate permease
+           No reaction
+Unreviewed NCU02188-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter
+           No reaction
+Unreviewed NCU01882-MONOMER    purine                   UNKNOWN   
+           purine transporter
+           No reaction
+Unreviewed NCU01724-MONOMER    Na+                      SECONDARY 
+           na/h antiporter
+           No reaction
+Unreviewed NCU01494-MONOMER    a sugar                  SECONDARY 
+           mfs sugar transporter
+           No reaction
+Unreviewed NCU01481-MONOMER    a standard alpha amino acid UNKNOWN   
+           amino acid transporter
+           No reaction
+Unreviewed NCU01480-MONOMER    an anion                 UNKNOWN   
+           anion exchange family protein
+           No reaction
+Unreviewed NCU01254-MONOMER    a cation                 UNKNOWN   
+           cation efflux family protein family
+           No reaction
+Unreviewed NCU01055-MONOMER    chromate                 UNKNOWN   
+           chromate ion transporter
+           No reaction
+Unreviewed NCU00988-MONOMER    L-quinate                SECONDARY 
+           mfs quinate transporter
+           No reaction
+Unreviewed NCU00916-MONOMER    a cation                 UNKNOWN   
+           membrane bound cation transporter
+           No reaction
+Unreviewed NCU00821-MONOMER    a sugar                  UNKNOWN   
+           sugar transporter
+           No reaction
+Unreviewed NCU00795-MONOMER    a cation                 UNKNOWN   
+           membrane bound cation transporter
+           No reaction
+Unreviewed NCU00668-MONOMER    a nucleotide             UNKNOWN   
+           rho guanyl nucleotide exchange factor
+           No reaction
+Unreviewed NCU00503-MONOMER    a cation                 CHANNEL   
+           nonselective cation channel protein
+           No reaction
+
+
+Unreviewed NCU00075-MONOMER  (no substrate identified)
+Unreviewed NCU00121-MONOMER  (no substrate identified)
+Unreviewed NCU00195-MONOMER  (no substrate identified)
+Unreviewed NCU00198-MONOMER  (no substrate identified)
+Unreviewed NCU00226-MONOMER  (no substrate identified)
+Unreviewed NCU00337-MONOMER  (no substrate identified)
+Unreviewed NCU00371-MONOMER  (no substrate identified)
+Unreviewed NCU00513-MONOMER  (no substrate identified)
+Unreviewed NCU00624-MONOMER  (no substrate identified)
+Unreviewed NCU00803-MONOMER  (no substrate identified)
+Unreviewed NCU00930-MONOMER  (no substrate identified)
+Unreviewed NCU01095-MONOMER  (no substrate identified)
+Unreviewed NCU01101-MONOMER  (no substrate identified)
+Unreviewed NCU01102-MONOMER  (no substrate identified)
+Unreviewed NCU01249-MONOMER  (no substrate identified)
+Unreviewed NCU01301-MONOMER  (no substrate identified)
+Unreviewed NCU01318-MONOMER  (no substrate identified)
+Unreviewed NCU01411-MONOMER  (no substrate identified)
+Unreviewed NCU01644-MONOMER  (no substrate identified)
+Unreviewed NCU01782-MONOMER  (no substrate identified)
+Unreviewed NCU01809-MONOMER  (no substrate identified)
+Unreviewed NCU01820-MONOMER  (no substrate identified)
+Unreviewed NCU01822-MONOMER  (no substrate identified)
+Unreviewed NCU01878-MONOMER  (no substrate identified)
+Unreviewed NCU01968-MONOMER  (no substrate identified)
+Unreviewed NCU02011-MONOMER  (no substrate identified)
+Unreviewed NCU02023-MONOMER  (no substrate identified)
+Unreviewed NCU02357-MONOMER  (no substrate identified)
+Unreviewed NCU02387-MONOMER  (no substrate identified)
+Unreviewed NCU02391-MONOMER  (no substrate identified)
+Unreviewed NCU02706-MONOMER  (no substrate identified)
+Unreviewed NCU02943-MONOMER  (no substrate identified)
+Unreviewed NCU02980-MONOMER  (no substrate identified)
+Unreviewed NCU03107-MONOMER  (no substrate identified)
+Unreviewed NCU03402-MONOMER  (no substrate identified)
+Unreviewed NCU03468-MONOMER  (no substrate identified)
+Unreviewed NCU03690-MONOMER  (no substrate identified)
+Unreviewed NCU03783-MONOMER  (no substrate identified)
+Unreviewed NCU03789-MONOMER  (no substrate identified)
+Unreviewed NCU03798-MONOMER  (no substrate identified)
+Unreviewed NCU03883-MONOMER  (no substrate identified)
+Unreviewed NCU04063-MONOMER  (no substrate identified)
+Unreviewed NCU04117-MONOMER  (no substrate identified)
+Unreviewed NCU04207-MONOMER  (no substrate identified)
+Unreviewed NCU04288-MONOMER  (no substrate identified)
+Unreviewed NCU04374-MONOMER  (no substrate identified)
+Unreviewed NCU04391-MONOMER  (no substrate identified)
+Unreviewed NCU04406-MONOMER  (no substrate identified)
+Unreviewed NCU04429-MONOMER  (no substrate identified)
+Unreviewed NCU04639-MONOMER  (no substrate identified)
+Unreviewed NCU04656-MONOMER  (no substrate identified)
+Unreviewed NCU04672-MONOMER  (no substrate identified)
+Unreviewed NCU04987-MONOMER  (no substrate identified)
+Unreviewed NCU05067-MONOMER  (no substrate identified)
+Unreviewed NCU05075-MONOMER  (no substrate identified)
+Unreviewed NCU05079-MONOMER  (no substrate identified)
+Unreviewed NCU05394-MONOMER  (no substrate identified)
+Unreviewed NCU05453-MONOMER  (no substrate identified)
+Unreviewed NCU05515-MONOMER  (no substrate identified)
+Unreviewed NCU05519-MONOMER  (no substrate identified)
+Unreviewed NCU05580-MONOMER  (no substrate identified)
+Unreviewed NCU05735-MONOMER  (no substrate identified)
+Unreviewed NCU05884-MONOMER  (no substrate identified)
+Unreviewed NCU05959-MONOMER  (no substrate identified)
+Unreviewed NCU05990-MONOMER  (no substrate identified)
+Unreviewed NCU06077-MONOMER  (no substrate identified)
+Unreviewed NCU06159-MONOMER  (no substrate identified)
+Unreviewed NCU06244-MONOMER  (no substrate identified)
+Unreviewed NCU06254-MONOMER  (no substrate identified)
+Unreviewed NCU06341-MONOMER  (no substrate identified)
+Unreviewed NCU06708-MONOMER  (no substrate identified)
+Unreviewed NCU06738-MONOMER  (no substrate identified)
+Unreviewed NCU06774-MONOMER  (no substrate identified)
+Unreviewed NCU06847-MONOMER  (no substrate identified)
+Unreviewed NCU07068-MONOMER  (no substrate identified)
+Unreviewed NCU07295-MONOMER  (no substrate identified)
+Unreviewed NCU07343-MONOMER  (no substrate identified)
+Unreviewed NCU07504-MONOMER  (no substrate identified)
+Unreviewed NCU07530-MONOMER  (no substrate identified)
+Unreviewed NCU07609-MONOMER  (no substrate identified)
+Unreviewed NCU07621-MONOMER  (no substrate identified)
+Unreviewed NCU07658-MONOMER  (no substrate identified)
+Unreviewed NCU07720-MONOMER  (no substrate identified)
+Unreviewed NCU07879-MONOMER  (no substrate identified)
+Unreviewed NCU07938-MONOMER  (no substrate identified)
+Unreviewed NCU07960-MONOMER  (no substrate identified)
+Unreviewed NCU07985-MONOMER  (no substrate identified)
+Unreviewed NCU08056-MONOMER  (no substrate identified)
+Unreviewed NCU08110-MONOMER  (no substrate identified)
+Unreviewed NCU08273-MONOMER  (no substrate identified)
+Unreviewed NCU08283-MONOMER  (no substrate identified)
+Unreviewed NCU08382-MONOMER  (no substrate identified)
+Unreviewed NCU08425-MONOMER  (no substrate identified)
+Unreviewed NCU08428-MONOMER  (no substrate identified)
+Unreviewed NCU08489-MONOMER  (no substrate identified)
+Unreviewed NCU08738-MONOMER  (no substrate identified)
+Unreviewed NCU08804-MONOMER  (no substrate identified)
+Unreviewed NCU08810-MONOMER  (no substrate identified)
+Unreviewed NCU08858-MONOMER  (no substrate identified)
+Unreviewed NCU08897-MONOMER  (no substrate identified)
+Unreviewed NCU09027-MONOMER  (no substrate identified)
+Unreviewed NCU09580-MONOMER  (no substrate identified)
+Unreviewed NCU09640-MONOMER  (no substrate identified)
+Unreviewed NCU09654-MONOMER  (no substrate identified)
+Unreviewed NCU09678-MONOMER  (no substrate identified)
+Unreviewed NCU09767-MONOMER  (no substrate identified)
+Unreviewed NCU09811-MONOMER  (no substrate identified)
+Unreviewed NCU09912-MONOMER  (no substrate identified)
+Unreviewed NCU09933-MONOMER  (no substrate identified)
+Unreviewed NCU10009-MONOMER  (no substrate identified)
+Unreviewed NCU10034-MONOMER  (no substrate identified)
+Unreviewed NCU10368-MONOMER  (no substrate identified)
+Unreviewed NCU10381-MONOMER  (no substrate identified)
+Unreviewed NCU10762-MONOMER  (no substrate identified)
+Unreviewed NCU10945-MONOMER  (no substrate identified)
+Unreviewed NCU10987-MONOMER  (no substrate identified)
+Unreviewed NCU11085-MONOMER  (no substrate identified)
+Unreviewed NCU11169-MONOMER  (no substrate identified)
+Unreviewed NCU11246-MONOMER  (no substrate identified)
+Unreviewed NCU11622-MONOMER  (no substrate identified)
