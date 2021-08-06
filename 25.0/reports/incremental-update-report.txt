@@ -1,0 +1,705 @@
+
+;;; ---  PGDB Incremental Update ---
+;;; ---  Parse Results for Neurospora crassa  ---
+;;;
+;;; This report summarizes the findings of the PathoLogic parser for
+;;; the annotation files for all updated genetic elements.  Through
+;;; inspection of this report, the user can tell whether features of major 
+;;; importance were not recognized, possibly due to syntax errors or other
+;;; problems in the updated annotation files. If you want to change 
+;;; annotation file(s) to improve their parsability, update the files 
+;;  then re-run the Update.
+
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181971.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181971.pf
+gene-IDs :                      2400
+gene-name :                     2400
+gene-startbase :                2400
+gene-endbase :                  2400
+gene-product-type :             2400
+  gene-Proteins :                 2400
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  370
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               419
+  genes with 1 EC number :         370
+  genes with >1 EC numbers :        41
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :           2400
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181972.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181972.pf
+gene-IDs :                      1045
+gene-name :                     1045
+gene-startbase :                1045
+gene-endbase :                  1045
+gene-product-type :             1045
+  gene-Proteins :                 1045
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  128
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               149
+  genes with 1 EC number :         128
+  genes with >1 EC numbers :        16
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :           1045
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181982.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181982.pf
+gene-IDs :                      1270
+gene-name :                     1270
+gene-startbase :                1270
+gene-endbase :                  1270
+gene-product-type :             1270
+  gene-Proteins :                 1270
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  182
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               207
+  genes with 1 EC number :         182
+  genes with >1 EC numbers :        20
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :           1270
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181976.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181976.pf
+gene-IDs :                      1510
+gene-name :                     1510
+gene-startbase :                1510
+gene-endbase :                  1510
+gene-product-type :             1510
+  gene-Proteins :                 1510
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  229
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               262
+  genes with 1 EC number :         229
+  genes with >1 EC numbers :        24
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :           1510
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181977.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181977.pf
+gene-IDs :                      1611
+gene-name :                     1611
+gene-startbase :                1611
+gene-endbase :                  1611
+gene-product-type :             1611
+  gene-Proteins :                 1611
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  255
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               303
+  genes with 1 EC number :         255
+  genes with >1 EC numbers :        44
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :           1611
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181973.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181973.pf
+gene-IDs :                      1007
+gene-name :                     1007
+gene-startbase :                1007
+gene-endbase :                  1007
+gene-product-type :             1007
+  gene-Proteins :                 1007
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  171
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               208
+  genes with 1 EC number :         171
+  genes with >1 EC numbers :        25
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :           1007
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181984.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181984.pf
+gene-IDs :                      1065
+gene-name :                     1065
+gene-startbase :                1065
+gene-endbase :                  1065
+gene-product-type :             1065
+  gene-Proteins :                 1065
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                  155
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :               171
+  genes with 1 EC number :         155
+  genes with >1 EC numbers :        16
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :           1065
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181980.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181980.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181967.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181967.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181974.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181974.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181981.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181981.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181985.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181985.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181968.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181968.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181970.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181970.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181975.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181975.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181983.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181983.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181966.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181966.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181979.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181979.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181978.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181978.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181969.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000121181969.pf
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with 1 EC number :           0
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /msc/data02/ptools-fungidev/ptools-local/pgdbs/user/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000125153817.pf
+
+;;;
+;;; The annotation file used by the parser is:
+;;; /msc/data02/ptools-fungidev/ptools-local/pgdbs/user.fungicyc/nc10cyc/NC10_CALLGENES_FINAL_2/input/7000000125153817.pf
+gene-IDs :                        27
+gene-name :                       27
+gene-startbase :                  27
+gene-endbase :                    27
+gene-product-type :               27
+  gene-Proteins :                   27
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-names :                   10
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                10
+  genes with 1 EC number :          10
+  genes with >1 EC numbers :         0
+total GO terms linked to reactions :       0
+  genes with 1 GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :             27
